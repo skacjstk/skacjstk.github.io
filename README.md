@@ -8,7 +8,7 @@ Unreal Cpp Project﻿﻿<br/>
 
 [![포트폴리오 영상 링크 ](http://img.youtube.com/vi/C5pPKTdSKO4/0.jpg)](https://youtu.be/C5pPKTdSKO4) 
 
-언리얼 포트폴리오용 게임입니다. 가능한 많은 기능을 개발하는 것을 목표로 제작된 포트폴리오입니다.<br/>
+언리얼 블루프린트 게임입니다. 가능한 많은 기능을 개발하는 것을 목표로 제작된 포트폴리오입니다.<br/>
 대표적으로 액션 시스템, 보조무기, 그래플링 등이 있습니다.
 <br/>기술정의서: https://blog.naver.com/skacjstk0818/223005296963 
 포트폴리오 영상 (2분)<br/>
