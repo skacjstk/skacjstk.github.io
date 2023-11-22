@@ -7,7 +7,7 @@
 <br/>패키징에서의 블루프린트 접근 문제, 리플리케이션 및 RPC를 활용한 에디터 인스턴스의 동기화에서 생기는 문제들을 해결했습니다.
 <br/> 기술정의서: https://blog.naver.com/skacjstk0818/223175673092
 <br/>포트폴리오 영상↓<br/>
-[![포트폴리오 영상 링크 ](http://img.youtube.com/vi/C5pPKTdSKO4/0.jpg)](https://youtu.be/C5pPKTdSKO4)
+[![포트폴리오 영상 링크 ](http://img.youtube.com/vi/FGkLP8M3FrE/0.jpg)](https://youtu.be/FGkLP8M3FrE)
 <br/>언리얼 BluePrint 프로젝트
 <br/>언리얼 엔진의 전반적인 기능을 활용하여 마영전의 우클릭 스매시 액션, 총기 부위별 피해량, EQS와 Behavior Tree를 활용한 적 AI, 
 <br/>스테이지 시작과 클리어 기능, 투척무기와 설치장비, PostProcess를 활용한 효과 등을 개발했습니다.
